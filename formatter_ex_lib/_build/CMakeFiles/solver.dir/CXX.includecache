@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/madennfloss/MadennFloss/workspace/tasks/lab03/solver_lib/solver.cpp
+solver.h
+/home/madennfloss/MadennFloss/workspace/tasks/lab03/solver_lib/solver.h
+math.h
+/home/madennfloss/MadennFloss/workspace/tasks/lab03/solver_lib/math.h
+stdexcept
+-
+
+/home/madennfloss/MadennFloss/workspace/tasks/lab03/solver_lib/solver.h
+
